@@ -4,7 +4,11 @@ public class EmpManager {
 
     public void start(String[] args){
 
-        System.out.println("HelloWorld!!!test");
+        System.out.println("HelloWorld");
+        System.out.println("dev_jskim");
 
+        System.out.println("develop_kjs");
+
+        System.out.println("HelloWorld!!!test");
     }
 }
